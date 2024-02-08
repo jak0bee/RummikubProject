@@ -1,7 +1,7 @@
 # Rummikube
 This is a java and python application developed by the team of student at Maastricht University
 
-Done by group 8 DACS Maastricht 2023/2024: <br />
+Done by group 7 DACS Maastricht 2023/2024: <br />
 -Jakub Suszwedyk <br />
 -Frederik Grüneberg <br />
 -Kees van den Eijnden <br />
