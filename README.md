@@ -1,11 +1,9 @@
-# rummicubei
-This is an AI robot that can play the game of Rummikub. The game is made in Java. The robot consists of 2 parts
-Monte Carlo tree search that can find and play the best move possible and a prediction of opponents tiles made by ml to
-solve the problem of impartial information.
+# Rummikube
+This is a java and python application developed by the team of student at Maastricht University
 
 Done by group 8 DACS Maastricht 2023/2024: <br />
--Frederik Grüneberg <br />
 -Jakub Suszwedyk <br />
+-Frederik Grüneberg <br />
 -Kees van den Eijnden <br />
 -Kasper van der Horst <br />
 -Kaloyan Kostov <br />
@@ -25,7 +23,7 @@ refer to the [documentation](https://pytorch.org/get-started/locally/).
 
 
 ## How to run
-Make sure Python is set up and Python prerequisites are installed properly
+Make sure Python is set up and Python prerequisites are installed properly.
 
 ### JAR file
 Download the jar file and launch it you will be trowed in a game selection menu where you can play against other people
@@ -37,6 +35,5 @@ You can also download the whole source code and run it from your favorite editor
 rummicubei/src/main/java/com/gameEngine/GameEngine.java is the file you need to run to achieve the same result as the jar
 file
 
-### Bot selection
-In the main method of the game you can change the bot from baseline to mcts or mcts+ml beware that mcts take some time to
-generate a move
+### Game Options
+You can play either in local multiplayer of 2 to 4 people or against a bot. The deafault bot is the baseline agent but its also possible to play  against all the other bots, that can be changed in the addPlayers function in the GameEngine.java class.
