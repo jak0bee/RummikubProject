@@ -21,6 +21,8 @@ Install the required packages with `pip install -r requirements.txt`.
 Pytorch has to be installed separately as it is dependent on the system. For more info
 refer to the [documentation](https://pytorch.org/get-started/locally/).
 
+## Scientific paper
+The report created for this project was created in LateX, its available as a PDF here: https://drive.google.com/file/d/17FPqpA1eg8pAoMjfWQQhvdlux0Yb4tYr/view?usp=sharing
 
 ## How to run
 Make sure Python is set up and Python prerequisites are installed properly.
