@@ -1,5 +1,5 @@
 # Rummikub Project
-This is a java and python application developed by the team of student at Maastricht University 
+This is a java and python application developed by the team of student at Maastricht University. We created a Rummikub game with graphics made with JavaFX. The game can be played with other people from 2 to 4 player on a single device, or single player against a bot. We created multiple agents to play against, including an information set MCTS bot with a neural network for predicting oponents tiles. The MCTS algorithm was implemented in java and the neural network was implemented in Python with PyTorch.
 
 Done by group 7 DACS Maastricht 2023/2024: <br />
 -Jakub Suszwedyk - Team Leader <br />
@@ -10,9 +10,6 @@ Done by group 7 DACS Maastricht 2023/2024: <br />
 -Konrad Paszyński <br />
 -Julius Verschoof <br />
 
-## Prerequisites
-- java
-- maven
 ### Python prerequisites
 
 Python version: 3.10.4
