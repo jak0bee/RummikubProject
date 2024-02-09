@@ -1,8 +1,8 @@
-# Rummikube
-This is a java and python application developed by the team of student at Maastricht University
+# Rummikub Project
+This is a java and python application developed by the team of student at Maastricht University 
 
 Done by group 7 DACS Maastricht 2023/2024: <br />
--Jakub Suszwedyk <br />
+-Jakub Suszwedyk - Team Leader <br />
 -Frederik Grüneberg <br />
 -Kees van den Eijnden <br />
 -Kasper van der Horst <br />
